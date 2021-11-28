@@ -2,6 +2,9 @@
 ## About 
 Quote Generator is an Android application that is written in Java, and utilizes multiple Public APIs in order to produce quotes at a simple click of a button.
 
+## Demo
+[![Quote Generator Demo Thumbnail](quoteGeneratorDemo.png)](https://youtu.be/IIAuGkiyqzc)
+
 ## Features
 Upon starting the application, the user is greeted by the following categories representing the topic/theme of their desired randomly generated quote:
 - Anime - Using the [AnimeChan](https://github.com/RocktimSaikia/anime-chan) public API, this category generates a random anime quote. In addition to the quote, the name of the character that states the quote, along with the anime title will be provided.
